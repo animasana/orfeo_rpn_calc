@@ -1,0 +1,7 @@
+[package]
+name = "orfeo_rpn_calc"
+version = "1.0.0"
+authors = ["GuessWho"]
+description = "RPN(Reverse Polish Notation) library"
+license = "MIT"
+edition = "2021"
